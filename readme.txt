@@ -1,8 +1,6 @@
 ==================================================================================================
 
-DESCRIPTION:
-
-CALVIN is a free HTML blog template that would surely create a strong and lasting first impression 
+Blogger is a free HTML blog template that would surely create a strong and lasting first impression 
 on all your visitors. A clean, simple, and versatile blog template that could be used for all sort 
 of purposes. Its simplistic approach to design emphasizes what really matters most — your site's 
 content. This blog template includes pages for frontpage, categories, about, contact and single 
